@@ -43,5 +43,20 @@ console.log(filterPh (['phoenix', 'jeep', 'phoebe', 'mouse', 'people', 'phone'])
 // console.log(filterPh (['filter', 'jerico', 'focus', 'phony', 'merry', 'plaque']));
 // console.log(filterPh (['fortune', 'crash', 'phoney', 'PhD', 'photo', 'park']));
 
+// below are things I was trying
+// function filterPh (array) {
+//     var filtered = array.filter(function (word) {
+//       return word.charAt(array)==='p';
+//     });
+// return filtered;
+// }
 
+// var PATTERN = 'ph',
+//     filtered = filterPh.filter(function (str) { return str.indexOf(PATTERN) === -1; });
 
+// function 3 from assignment. 
+// function filterPh (array) {
+//     const filtered = phWords.filter(ph => {
+//     return filtered;
+//   }
+// });
