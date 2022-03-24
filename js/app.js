@@ -28,15 +28,6 @@ console.log(characterCount('this is 15 long'));
 
 
 
-// function A (number, number2, C){
-//   var C = ?;
-//   var B = (number +-*/ number2) +-*/ C;
-//   return B;
-// }
-// this is the basic lasyout of a function (I cant of like lasyout as a name instead of layout for this cheat sheet, but is the easiest way to demonstrate a math function.) 
-// find out if there are resources that can spell it out like that
-
-
 
 
 
